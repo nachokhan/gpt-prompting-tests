@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Paris",
+            "Berlin",
+            "Rome",
+            "Madrid"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 2+2?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the largest ocean?",
+        "options": [
+            "Atlantic",
+            "Pacific",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": [
+            "Harper Lee",
+            "Mark Twain",
+            "J.K. Rowling",
+            "Ernest Hemingway"
+        ],
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "What is the smallest planet in the Solar System?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": [
+            "1912",
+            "1910",
+            "1914",
+            "1908"
+        ],
+        "answer": "1912"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": [
+            "Tokyo",
+            "Kyoto",
+            "Osaka",
+            "Hiroshima"
+        ],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Raphael",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the largest country in the world?",
+        "options": [
+            "Russia",
+            "Canada",
+            "China",
+            "United States"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "O"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Venus"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Leo Tolstoy"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": [
+            "Avocado",
+            "Tomato",
+            "Onion",
+            "Pepper"
+        ],
+        "answer": "Avocado"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+            "Blue whale",
+            "African elephant",
+            "Giraffe",
+            "Grizzly bear"
+        ],
+        "answer": "Blue whale"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Helium",
+            "Nitrogen"
+        ],
+        "answer": "Hydrogen"
+    }
+]

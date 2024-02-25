@@ -1,0 +1,16 @@
+
+I need a game made in Python.
+The game consists of a JSON file with 15 multiple-choice questions and answers that you will search for on the internet.
+The game will run in game.py.
+The game starts by asking the player's name.
+Then we enter a loop of random questions obtained from the group of questions.
+If the player answers 2 questions incorrectly in a row, they lose the game.
+If the player answers 5 questions correctly (even if not consecutive), they win the game.
+If they win, they will be shown a congratulatory message.
+Whether they win or lose, the player's response statistics must be displayed.
+Finally, you will update a JSON file called "history.json" with the player's data, response statistics, and the date and time they played.
+You will define the format of "history.json" based on the provided data.
+The game must be clearly programmed and follow good programming practices.
+If you consider it necessary to separate into methods to make it more readable and maintainable, do so.
+
+Give the whole project in a zip file, no explanations. Just the file.
