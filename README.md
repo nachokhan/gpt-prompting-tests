@@ -1,1 +1,1 @@
-# gpt-prompting-tests
+# GPT Prompting Tests
