@@ -1,0 +1,45 @@
+Considering this game requirements, I need you to create a ZIP file with all the necessary files and its complete content to run the game. No explanations are needed, just the file.
+
+Development Environment: Create the game using Python (version to be specified, e.g., Python 3.8 or later).
+
+Game Content:
+
+Utilize a JSON file containing 15 well-researched multiple-choice questions and answers. The topics of these questions should cover a diverse range of subjects to ensure a broad appeal.
+Ensure the questions are of varying difficulty levels to maintain player engagement and challenge.
+Main Game File:
+
+Name the primary script game.py.
+This script should be executable and well-commented for clarity.
+Player Interaction:
+
+Initiate the game by prompting the player to enter their name.
+Implement a user-friendly interface for question display and answer input.
+Game Mechanics:
+
+Design a random question selection mechanism to fetch questions from the JSON file.
+Set a game rule where consecutive wrong answers (2 in total) result in a game loss.
+Implement a winning condition where correctly answering 5 questions (not necessarily consecutive) leads to a victory.
+End-Game Scenarios:
+
+Display a congratulatory message upon winning.
+Show the player’s performance statistics (e.g., number of correct/incorrect answers, percentage score) at the end of the game, regardless of the outcome.
+History Tracking:
+
+Update a separate JSON file, history.json, after each game session.
+This file should include the player’s name, response statistics, and the date/time of the game.
+Define and document the structure of history.json for future reference and potential scalability.
+Code Organization:
+
+Adhere to good programming practices, including readable and maintainable code.
+Organize the code into functions or classes where appropriate to enhance modularity and readability.
+Documentation and Comments:
+
+Include inline comments and module-level documentation within the code for clarity and ease of maintenance.
+Delivery Format:
+
+Provide the entire project in a compressed ZIP file format, containing all necessary scripts and JSON files.
+Additional Considerations:
+
+Consider adding error handling for user inputs to improve game robustness.
+Implement a simple but intuitive UI for a better user experience.
+Optionally, include a brief README file outlining the game's basic instructions and system requirements.
