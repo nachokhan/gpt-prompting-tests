@@ -1,0 +1,4 @@
+I want to create a multiple choice question and answer game of three different types: computing, nature, music.
+If the user answers 3 questions correctly, they win. If they answer 2 in a row incorrectly, they lose. 
+The questions and their possible answers must be sourced from the internet. Pick up 10. 
+The game should be in Python. Give the whole code in a zip file, please, no explanations. Just the file.
