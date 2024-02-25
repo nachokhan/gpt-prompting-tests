@@ -46,7 +46,7 @@ def main():
             wrong_streak = 0
             print('Correct!')
         else:
-            wrong_streak += 12
+            wrong_streak += 1
             print('Incorrect!')
         questions_asked += 1
 
